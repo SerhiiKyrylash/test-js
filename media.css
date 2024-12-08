@@ -1,0 +1,32 @@
+@media (max-width:767px) {
+    .container{
+        width: 70%;
+        padding: 30px 20px;
+
+    }
+    .input{
+        height: 15px;
+        padding: 2px;
+        font-size: 12px;
+    }
+    .btn-input{
+        font-size: 10px;
+    }
+    span{
+
+       font-size: 12px;
+
+    }
+    .button{
+        padding: 0;
+    }
+    .btn-sortName{
+        font-size: 10px;
+    }
+    .btn-delete{
+       font-size: 10px;
+    }
+    .btn-sortValue{
+        font-size: 10px;
+    }
+}
